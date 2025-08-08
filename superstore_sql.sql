@@ -1,5 +1,5 @@
 -- CREATION OF DATABASE 
-create database commerce;
+create database ecommerce;
 
 -- USE DATABASE 
 use ecommerce;
